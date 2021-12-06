@@ -1,0 +1,64 @@
+1. Introduction: Explain why you chose the topic, the questions you are interested in 
+studying. List team members and a description of how each contributed to the project.
+
+The reason this topic and dataset was chosen by our group is two-fold. First, this dataset contained enough data variables that gives the dataset a high potential of analysis for interesting correlations. Second, the topic (music, specifically that 
+streamed from Spotify) was found to be very relatable to our group's members, and thus intriguing.
+
+Our group selected eight questions that we would like to answer using data analysis techniques. They include the following: 
+1.Is there an even distribution of the number of occurrences per Artist?                                                 
+2.Is there a relationship between an Artist's number of occurrences and the popularity of their most popular song?
+3.Does Genre correlate to Popularity?
+4.Does Artist correlate to Popularity?
+5.Do more popular song tend to be shorter? 
+6.Does BPM and Energy have any correlation?
+7.Which artist shows up the most in the data set?
+8.Do certain genres tend to have a higher energy or bpm?
+9.Is there any correlation between genre and length?                                                                               
+
+Group Team Members (and contributions):
+- Adam Scott (Data questions 1, 2, 6, 8. Repo management. Technical questions 1, 4)
+- Baron Schitka (Data Questions 3, 9. Technical questions 2, 3, 4, 5)
+- Ashvin Kuruparan (Blog Post, Technical question 4)
+- Jimmy Kesikiadis (Data Questions 4, 5, 7. Technical questions 4, 6)
+
+
+
+2. Description of data: Describe the dataset, how was it collect, how you accessed it, 
+references/credit to source.
+
+Top 50 Spotify Songs - 2019 https://www.kaggle.com/leonardopena/top50spotify2019
+
+It is information on data points about the top 50 Spotify songs of 2019. The way it was collected was that it is the 50 most listened Songs on Spotify and Spotify itself collected the data with the data that they collected from their own software. We got the dataset from Kaggle.com.
+
+
+
+
+3. Analysis of the data: Provide a detailed, well-organized description of data quality, 
+including the features, any data that should be cleaned or pre-processed before you 
+EDA.
+
+1.Track.Name-Name of the Track
+2.Artist.Name-Name of the Artist
+3.Genre-the genre of the track
+4.Beats.Per.Minute-The tempo of the song.
+5.Energy-The energy of a song - the higher the value, the more energetic. song
+6.Danceability-The higher the value, the easier it is to dance to this song.
+7.Loudness..dB..-The higher the value, the louder the song.
+8.Liveness-The higher the value, the more likely the song is a live recording.
+9.Valence.-The higher the value, the more positive the mood for the song.
+10.Length.-The duration of the song.
+11.Acousticness..-The higher the value the more acoustic the song is.
+12.Speechiness.-The higher the value the more spoken word the song contains.
+13.Popularity-The higher the value the more popular the song is.
+Track name, Artist name, genre, bpm, and length were all high quality and useful. The rest were not as useful as they seem more subjective and less useful for Data Science. There was no cleaning or prepossessing that had to be done. No data was removed as it would be better to have and show off than not. There was no data missing that would need to be removed as part of clean up.
+
+
+
+
+
+
+5. Potential Data Science: Based on your data analysis and findings. Describe any potential 
+ideas if you were to pursue a data science or machine learning project using this 
+dataset. If you don’t find any potential, explain your rationale.
+
+The conclusions of this data may have potential in recommendations for artists, by incorporating into their songs any variables that correlate with popularity and avoiding variables that are negatively correlated to it. Recommendations can be made to suggest the best elements to include in a song and a graphical representation could be made for ease of use. For machine learning, you could have the machine predict how popular a song will be before it comes out by using this data. With enough iterations the algorithm could figure out what weight to give each element in its prediction. The machine could also guess if a song was popular on Spotify, I predict that artist name would be weighted as very important in that prediction. 
