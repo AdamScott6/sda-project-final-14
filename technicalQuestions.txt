@@ -13,11 +13,12 @@ Our group selected eight questions that we would like to answer using data analy
 6.Does BPM and Energy have any correlation?
 7.Which artist shows up the most in the data set?
 8.Do certain genres tend to have a higher energy or bpm?
-9.Is there any correlation between genre and length?                                                                               
+9.Is there any correlation between genre and length?  
+10.Is there an even distribution of the number of occurrences per Genre?
 
 Group Team Members (and contributions):
 - Adam Scott (Data questions 1, 2, 6, 8. Repo management. Technical questions 1, 4)
-- Baron Schitka (Data Questions 3, 9. Technical questions 2, 3, 4, 5)
+- Baron Schitka (Data Questions 3, 9, 10. Technical questions 2, 3, 4, 5)
 - Ashvin Kuruparan (Blog Post, Technical question 4)
 - Jimmy Kesikiadis (Data Questions 4, 5, 7. Technical questions 4, 6)
 
