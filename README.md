@@ -12,7 +12,7 @@ Trends in Spotify’s Top 50 Songs of 2019
 About us
 - Adam Scott - AdamScott6
 - Baron Schitka - Baron242
-- Ashvin Kuruparan
+- Ashvin Kuruparan - AshvinKuruparan2
 - Jimmy Kesikiadis - DimitiosK1000
 
 Introduction:
