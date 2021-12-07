@@ -1,4 +1,4 @@
-PLEASE look at the document in light mode to see the x and y axis labels of the graphs.
+PLEASE look at this README document in light mode to see the x and y axis labels of the graphs.
 
 Run all code in order from top to bottom to ensure that there is no error in compiling and execution.
 
