@@ -1,4 +1,4 @@
-Look at the document in light mode to see the x and y axis of the graphs.
+PLEASE look at the document in light mode to see the x and y axis labels of the graphs.
 
 Run all code in order from top to bottom to ensure that there is no error in compiling and execution.
 
@@ -23,8 +23,6 @@ Music is incredibly diverse with countless genres, musicians, and countries of o
 Discussion:
 
 Within the data set, there are many different variables that can be considered and analyzed when looking for what makes a song popular, some of these are more effective at this than others are. With this in mind, the categories that are the most important are genre, song length, number of occurrences per artist, and the relationship it shares with the popularity. One of the factors we checked was the relationship between genre and popularity. As a musician, it is important to establish a genre that fits you as a person in addition to appealing to the public. Genres are a way to categorize music by specific forms, styles and specific subject matter, and as a result there are countless genres that are taken into account when analyzing the data. There were 21 different genres in the top 50 songs on Spotify, including but not limited to pop, trap music, reggaeton flow, and r&b en espanol. Out of all these genres, some of which could be considered opposites of each other. With such a vast diversity in genres, it can be concluded that there is no correlation between genre and popularity. Therefore, there is more creative freedom that can be taken with your discography as a musician, while having the same potential to become a hit. Another variable that is shown to contribute to the popularity of a song is the number of previous hits by that artist. If an artist has multiple songs in the top 50, it is more likely for another song to become popular. Ultimately, it does not have an affect on whether any music you make may end up becoming a hit. However, on average, when multiple songs by the same artist are on the top 50 chart, they are less popular than a single song by another artist. The artist with the most occurrences was Ed Sheeran, who only had 4 songs. Meanwhile 9 artists had two songs, and the remaining 40 had 1 song each. Contrary to my belief, song length does not have a correlation to how popular a song is. There is no clear trend of longer songs being more popular than shorter songs and vice versa, while looking at the rankings of the chart. Therefore, there is no minimum or maximum length that a song can be when it is considered a hit on the charts. From what this dataset shows, it seems that Reggaeton Flow, Latin and Pop music all have the highest length of songs.
-
-(Put in table 1,3,4,5,9)
 
 
 ```python
