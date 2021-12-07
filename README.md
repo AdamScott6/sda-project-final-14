@@ -1,4 +1,10 @@
+Look at the document in light mode to see the x and y axis of the graphs 
+Run all code in order from top to bottom to ensure that there is no error in compiling and execution. 
+Make sure that the Seaborn package is installed. 
+Run if not installed: pip install seaborn
+
 Trends in Spotify’s Top 50 Songs of 2019 
+
 About us
 - Adam Scott - AdamScott6
 - Baron Schitka - Baron242
